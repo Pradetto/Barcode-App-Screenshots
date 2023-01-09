@@ -6,7 +6,7 @@
 ## Filters Feature
 <img width="1655" alt="Screenshot 2023-01-08 at 8 20 25 PM" src="https://user-images.githubusercontent.com/94888847/211231853-95f8a237-83ee-4680-b555-29388b6476d8.png">
 
-## Search Database Feature
+## Search Queried Data Feature
 <img width="1651" alt="Screenshot 2023-01-08 at 8 21 03 PM" src="https://user-images.githubusercontent.com/94888847/211231911-5eab2f26-61e8-47ff-a43b-785c3dd4cc85.png">
 
 ## Export Feature
